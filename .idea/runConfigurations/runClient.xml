@@ -7,7 +7,7 @@
     <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/run"/>
     <module name="DoubleBarrelShotgun.main"/>
     <envs>
-      <env name="MOD_CLASSES" value="examplemod%%$PROJECT_DIR$/out/production/resources:examplemod%%$PROJECT_DIR$/out/production/classes"/>
+      <env name="MOD_CLASSES" value="doublebarrelshotgun%%$PROJECT_DIR$/out/production/resources:doublebarrelshotgun%%$PROJECT_DIR$/out/production/classes"/>
       <env name="MCP_MAPPINGS" value="official_1.17.1"/>
     </envs>
     <method v="2">
